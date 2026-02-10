@@ -1,0 +1,10 @@
+# Archivos temporales de Pentaho Spoon
+*.log
+*.tmp
+*.bak
+
+# Configuración local de usuario
+.kettle/
+
+# Backups automáticos
+*.old
