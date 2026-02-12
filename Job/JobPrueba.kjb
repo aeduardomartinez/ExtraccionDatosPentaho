@@ -321,8 +321,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>496</xloc>
-      <yloc>256</yloc>
+      <xloc>256</xloc>
+      <yloc>480</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -522,8 +522,8 @@ true; // Continuar al paso de Mail</script>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>688</xloc>
-      <yloc>416</yloc>
+      <xloc>480</xloc>
+      <yloc>688</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -653,7 +653,7 @@ true; // Continuar al paso de Mail</script>
       <to>Transformation 2</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
       <evaluation>Y</evaluation>
       <unconditional>N</unconditional>
     </hop>
